@@ -11,9 +11,8 @@ package starling.display.graphics
 {
 	import flash.geom.Matrix;
 	import flash.geom.Point;
-	
-	import starling.core.Starling;
-	import starling.display.graphics.util.TriangleUtil;
+
+	import starling.display.util.TriangleUtil;
 
 	public class NGon extends Graphic
 	{

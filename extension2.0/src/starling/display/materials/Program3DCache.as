@@ -3,7 +3,7 @@ package starling.display.materials
 	import flash.display3D.Context3D;
 	import flash.display3D.Program3D;
 	import flash.utils.Dictionary;
-	
+
 	import starling.display.shaders.IShader;
 
 	internal class Program3DCache

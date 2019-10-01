@@ -13,14 +13,14 @@ package starling.display
     import flash.geom.Rectangle;
     import flash.ui.Mouse;
     import flash.ui.MouseCursor;
-	import starling.utils.Align;
-    
+
     import starling.events.Event;
     import starling.events.Touch;
     import starling.events.TouchEvent;
     import starling.events.TouchPhase;
     import starling.text.TextField;
     import starling.textures.Texture;
+    import starling.utils.Align;
     
 
     /** Dispatched when the user triggers the button. Bubbles. */

@@ -1,6 +1,7 @@
 package starling.display.shaders.vertex
 {
 	import flash.display3D.Context3DProgramType;
+
 	import starling.display.shaders.AbstractShader;
 	
 	public class StandardVertexShader extends AbstractShader

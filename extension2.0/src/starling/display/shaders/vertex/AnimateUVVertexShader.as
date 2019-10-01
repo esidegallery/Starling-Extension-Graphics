@@ -3,7 +3,7 @@ package starling.display.shaders.vertex
 	import flash.display3D.Context3D;
 	import flash.display3D.Context3DProgramType;
 	import flash.utils.getTimer;
-	
+
 	import starling.display.shaders.AbstractShader;
 	
 	public class AnimateUVVertexShader extends AbstractShader

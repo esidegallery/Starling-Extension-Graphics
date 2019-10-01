@@ -1,9 +1,6 @@
 package starling.display.graphics
 {
-	import flash.geom.Matrix;
-	import flash.geom.Point;
-	
-	import starling.core.Starling;
+
 
 	public class RoundedRectangle extends Graphic
 	{

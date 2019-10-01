@@ -1,7 +1,6 @@
 package starling.display
 {
 	import starling.display.Graphics;
-	import starling.events.EnterFrameEvent;
 	
 	public class Shape extends DisplayObjectContainer
 	{

@@ -1,16 +1,13 @@
 package starling.display
 {
-	import flash.display.BitmapData;
 	import flash.geom.Matrix;
-	
+
 	import starling.display.graphics.Fill;
 	import starling.display.graphics.Graphic;
 	import starling.display.graphics.NGon;
 	import starling.display.graphics.Plane;
 	import starling.display.graphics.RoundedRectangle;
 	import starling.display.graphics.Stroke;
-	import starling.display.graphics.StrokeVertex;
-
 	import starling.display.materials.IMaterial;
 	import starling.display.shaders.fragment.TextureFragmentShader;
 	import starling.display.util.CurveUtil;
@@ -498,7 +495,6 @@ package starling.display
 			// Draw fill
 			if ( _fillStyleSet )
 			{
-				applyFillStyleToGraphic( roundedRect );
 				
 				var m:Matrix = new Matrix();
 				m.scale(width, height);

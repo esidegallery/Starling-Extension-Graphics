@@ -1,4 +1,4 @@
-package starling.display.graphics.util 
+package starling.display.util
 {
 	import flash.geom.Point;
 	

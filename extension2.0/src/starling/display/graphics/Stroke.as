@@ -2,11 +2,10 @@ package starling.display.graphics
 {
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
-	
-	import starling.display.DisplayObject;
+
 	import starling.display.graphics.StrokeVertex;
+	import starling.display.util.TriangleUtil;
 	import starling.textures.Texture;
-	import starling.display.graphics.util.TriangleUtil;
 	import starling.utils.MatrixUtil;
 		
 	public class Stroke extends Graphic

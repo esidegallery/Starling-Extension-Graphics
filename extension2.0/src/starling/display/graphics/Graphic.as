@@ -7,14 +7,11 @@ package starling.display.graphics
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
 	import flash.utils.Dictionary;
-	import starling.display.MyBlendMode;
-	import starling.events.EnterFrameEvent;
-	import starling.rendering.Painter;
-	
-	//import starling.core.RenderSupport;
+
 	import starling.core.Starling;
 	import starling.display.BlendMode;
 	import starling.display.DisplayObject;
+	import starling.display.MyBlendMode;
 	import starling.display.materials.IMaterial;
 	import starling.display.materials.StandardMaterial;
 	import starling.display.shaders.fragment.VertexColorFragmentShader;
@@ -22,6 +19,7 @@ package starling.display.graphics
 	import starling.errors.AbstractMethodError;
 	import starling.errors.MissingContextError;
 	import starling.events.Event;
+	import starling.rendering.Painter;
 	
 	/**
 	 * Abstract, do not instantiate directly

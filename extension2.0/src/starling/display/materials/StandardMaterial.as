@@ -7,7 +7,7 @@ package starling.display.materials
 	import flash.display3D.Program3D;
 	import flash.display3D.VertexBuffer3D;
 	import flash.geom.Matrix3D;
-	
+
 	import starling.display.shaders.IShader;
 	import starling.display.shaders.fragment.VertexColorFragmentShader;
 	import starling.display.shaders.vertex.StandardVertexShader;

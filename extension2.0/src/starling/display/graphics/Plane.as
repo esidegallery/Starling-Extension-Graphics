@@ -1,11 +1,8 @@
 package starling.display.graphics
 {
 	import flash.geom.Matrix;
-	import flash.geom.Point;
 	import flash.geom.Rectangle;
-	
-	import starling.rendering.Painter;
-	import starling.core.Starling;
+
 	import starling.display.DisplayObject;
 
 	public class Plane extends Graphic

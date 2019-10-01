@@ -4,7 +4,7 @@ package starling.display.materials
 	import flash.display3D.IndexBuffer3D;
 	import flash.display3D.VertexBuffer3D;
 	import flash.geom.Matrix3D;
-	
+
 	import starling.display.shaders.IShader;
 	import starling.textures.Texture;
 	
